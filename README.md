@@ -125,7 +125,7 @@ The File can be found in app/Imports
 ├── app
 │   ├── Imports
 │   │├── EmployeeImport.php
-│   │├── EmployeeImport.php
+│   │├── EmployeeCSVImport.php
 │ 
 └── composer.json
 ```
