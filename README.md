@@ -120,6 +120,7 @@ You may do this by using the make:import command.
 
 The File can be found in app/Imports
 
+```bash
 .
 ├── app
 │   ├── Imports
@@ -127,6 +128,7 @@ The File can be found in app/Imports
 │   │├── EmployeeImport.php
 │ 
 └── composer.json
+```
 
 Step 9: Create new controller
 
